@@ -1,7 +1,7 @@
 [![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)](https://abhaykathania.io)
 <h1 align="center">Hi 👋, I'm Abhay</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.redd.it/n8agw6z2smyb1.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cd/19/aa/cd19aa1e727d79be52ac4ce88a649951.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaykathania&label=Profile%20views&color=0e75b6&style=flat" alt="abhaykathania" /> </p>
 
